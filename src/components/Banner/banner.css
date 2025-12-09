@@ -81,7 +81,10 @@ h1 {
     transition: .3s;
     font-size: 1rem;
 }
-
+.btn + .btn{
+    margin-top:10px;
+    margin-left:0!important;
+}
 .primary {
     background: #7a26ff;
 }
